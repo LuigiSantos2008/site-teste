@@ -1,2 +1,14 @@
-# site-teste
-teste de um site
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: blue;
+}
+
+button {
+  padding: 10px;
+}
+
